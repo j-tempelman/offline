@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html{
+	background-color: #006e6e;
+	
+}
+
+.grijs{
+	background-color: #eeeeee	
+}
+
+.content{
+	width: 600px;
+	margin: 0 auto;
+}
+.logo{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 45px;
+	margin-bottom: 45px;
+
+}
+.logoblk{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	max-width: 440px;
+}
+
+.p1{
+	color: #eeeeee;
+	font-family: 'Raleway', sans-serif;
+	font-size: 35px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.p2{
+	color: #eeeeee;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 23px;
+	text-align: center;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	max-width: 600px;
+}
+
+.p3{
+	color: #eeeeee;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 17px;
+}
+
+.w100{
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+
+.w50{
+	width: auto;
+	display: inline-block;	
+}
+.w20{
+	width: auto;
+	display: inline-block;	
+}
+
+.left{
+	padding-right: 50px;
+	border-right-width: 2px;
+	border-right-color: #1e1e1e;
+	border-right-style: dotted;
+}
+
+.mid{
+	padding-left: 50px;
+}
+
+.link a{
+	color: #eeeeee
+}
+.link a	hover{
+	color: #9e9e9e
+}
+.link a	visited{
+	color: #eeeeee
+}
+
+
